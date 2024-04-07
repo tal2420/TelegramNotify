@@ -1,2 +1,2 @@
 # TelegramNotify
-A versatile library for Arduino boards to send notifications via Telegram Bot API easily.
+The TelegramNotify library simplifies the process of sending notifications from Arduino and ESP boards using the Telegram Bot API. With easy-to-use functions, developers can integrate Telegram notifications seamlessly into their projects, enabling real-time alerts, status updates, and more. Whether it's monitoring sensor data, receiving alerts from IoT devices, or interacting with users via Telegram, this library provides a versatile solution for communication with minimal setup required.
