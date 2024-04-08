@@ -33,9 +33,9 @@ Before you can start working with this library, you will need to create Telegram
 
 ### Install the library
 
-To use the GreenApi library in your Arduino projects, follow these steps:
+To use the TelegramNotify library in your Arduino projects, follow these steps:
 
-1. Download the latest release of the GreenApi library from the [GitHub releases page](https://github.com/t0mer/TelegramNotify/releases).
+1. Download the latest release of the TelegramNotify library from the [GitHub releases page](https://github.com/t0mer/TelegramNotify/releases).
 2. Extract the downloaded ZIP file.
 3. Move the extracted folder to the `libraries` directory in your Arduino sketchbook.
 4. Restart the Arduino IDE.
